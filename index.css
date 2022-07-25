@@ -3,8 +3,14 @@ body{
     color: white;
 }
 .container{
-    border: 2px solid red;
+    border: 2px ;
     width: 80%;
     margin: auto;
-    background-color: dimgrey;
+    background-color: gray;
+    border-radius: 20px;
 }
+.hadding{
+    font-family: font-family: 'Lobster', cursive;
+
+}
+    
