@@ -1,16 +1,65 @@
-body{
+body{ 
     background-color: black;
     color: white;
 }
+
 .container{
-    border: 2px ;
+   
     width: 80%;
     margin: auto;
-    background-color: gray;
+    background-color: rgb(50, 50, 50);
     border-radius: 20px;
 }
-.hadding{
-    font-family: font-family: 'Lobster', cursive;
+.heading{
+    font-family: 'Lobster', cursive;
+}
+#title{ font-size: 90px; text-align: center;}
+#span1{ 
+    color: red;
+}
+#img-div{
+    
+    text-align: center;
+    
+}
+#image{ width: 400px;
+    border-radius: 20px;
+}
+#info{ 
+    
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1,5rem;
+}
+#marvel{
+    color: red;
+    width: 80½;
+    margin-left: 10%;
+}
+ul{
+    width: 80%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#footer{
+    margin: 1,5rem;
+    padding: 1,5rem;
+    text-align: center;
+    font-size: 1,5rem;
 
 }
-    
+#link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: black;
+
+}
+#link:hover{
+    background-color: rgb(42, 39, 39);
+    color: red;
+}
